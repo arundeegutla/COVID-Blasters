@@ -3,7 +3,7 @@
 -Developed a game that brought attention to the COVID-19 pandemic and raised awareness of public health measures.
 -Contributed to the development of game mechanics, graphics, and user experience.
 
-#Check out on Code.org
+# Check out on Code.org
 https://studio.code.org/projects/applab/_crT2FwcyzmfQsBZbwUbq6GzeVgbwa8NoxMEJNkx1WM
 
 Preview:
