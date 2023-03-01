@@ -1,4 +1,4 @@
-# COVID-Blasters - CSTA SoFlo Hackathon Second Place
+# COVID-Blasters - CSTA SoFlo Hackathon Second Place 🥈
 
 -Developed a game that brought attention to the COVID-19 pandemic and raised awareness of public health measures.
 -Contributed to the development of game mechanics, graphics, and user experience.
