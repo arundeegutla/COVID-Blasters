@@ -1,5 +1,6 @@
 # COVID-Blasters - CSTA SoFlo Hackathon Second Place 🥈
--Developed a game that brought attention to the COVID-19 pandemic and raised awareness of public health measures.
+Developed a game that brought attention to the COVID-19 pandemic and raised awareness of public health measures.
+
 • Contributed to the development of game mechanics, graphics, and user experience using JavaScript.
 • Worked with team of three to develop and implement strategies to achieve the desired outcomes in 3 days.
 • Utilized GitHub repository to store, track, and Google Colab for collaborating on project.
